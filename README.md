@@ -1,3 +1,8 @@
+##常用GULP 插件介绍
+http://pinkyjie.com/2015/08/02/commonly-used-gulp-plugins-part-1/
+###
+http://pinkyjie.com/2015/08/12/commonly-used-gulp-plugins-part-2/
+
 ## 匹配符 \*、\**、！、{}
 
     gulp.src('./js/*.js')               // * 匹配js文件夹下所有.js格式的文件
